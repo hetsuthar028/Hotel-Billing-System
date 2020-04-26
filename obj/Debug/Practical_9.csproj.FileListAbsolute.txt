@@ -1,0 +1,13 @@
+C:\Users\Het Suthar\source\repos\Practical_9\bin\Debug\Practical_9.exe.config
+C:\Users\Het Suthar\source\repos\Practical_9\bin\Debug\Practical_9.exe
+C:\Users\Het Suthar\source\repos\Practical_9\bin\Debug\Practical_9.pdb
+C:\Users\Het Suthar\source\repos\Practical_9\obj\Debug\Practical_9.csprojAssemblyReference.cache
+C:\Users\Het Suthar\source\repos\Practical_9\obj\Debug\Practical_9.Form1.resources
+C:\Users\Het Suthar\source\repos\Practical_9\obj\Debug\Practical_9.Properties.Resources.resources
+C:\Users\Het Suthar\source\repos\Practical_9\obj\Debug\Practical_9.csproj.GenerateResource.cache
+C:\Users\Het Suthar\source\repos\Practical_9\obj\Debug\Practical_9.exe
+C:\Users\Het Suthar\source\repos\Practical_9\obj\Debug\Practical_9.pdb
+C:\Users\Het Suthar\source\repos\Practical_9\obj\Debug\Practical_9.Payment_Details.resources
+C:\Users\Het Suthar\source\repos\Practical_9\bin\Debug\Orders.mdf
+C:\Users\Het Suthar\source\repos\Practical_9\bin\Debug\Orders_log.ldf
+C:\Users\Het Suthar\source\repos\Practical_9\obj\Debug\Practical_9.UpdateOrder.resources
